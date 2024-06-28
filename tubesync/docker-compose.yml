@@ -8,7 +8,7 @@ services:
     ports:
       - 4848:4848
     volumes:
-      - /home/umbrel/umbrel/data/storage/my-apps-config/tubesync-config:/config
+      - /home/umbrel/umbrel/my-configs/tubesync-config:/config
       - /home/umbrel/umbrel/data/storage/tubesync:/downloads
     environment:
       - TZ=Europe/Madrid
