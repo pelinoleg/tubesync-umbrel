@@ -4,7 +4,7 @@ services:
   tubesync:
     image: ghcr.io/meeb/tubesync:latest
     container_name: tubesync
-    restart: unless-stopped
+    restart: always
     ports:
       - 4848:4848
     volumes:
