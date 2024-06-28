@@ -1,0 +1,29 @@
+manifestVersion: 1
+id: tubesync
+name: TubeSync
+tagline: Automated YouTube Video Downloader
+icon: https://svgshare.com/i/17ge.svg
+category: files
+version: "1.0.0"
+port: 4848
+description: >-
+  A Docker container for TubeSync, allowing automated download of videos from YouTube to your local storage.
+
+developer: Pelin Oleg
+website: https://github.com/pelinoleg/tubesync-umbrel
+submitter: Pelin Oleg
+submission: https://github.com/pelinoleg/tubesync-umbrel
+repo: https://github.com/pelinoleg/tubesync-umbrel
+support: https://github.com/pelinoleg/tubesync-umbrel/issues
+
+gallery:
+  - https://opengraph.githubassets.com/841e3347b1cac81dbb40e2630d97a9d4ac184586e796396812301f5cc55ff6b1/meeb/tubesync
+  - https://lordpedal.github.io/assets/images/posts/tubesync1.jpg
+  -https://d4.alternativeto.net/_0kE4Put4PtDhVA0fi_rTS61L1iWybuZrF8uzJ0JWyI/rs:fit:2400:2400:0/g:ce:0:0/YWJzOi8vZGlzdC9zL3R1YmVzeW5jXzI0MDg2M19mdWxsLnBuZw.jpg
+
+releaseNotes: >-
+  Initial release of TubeSync on Umbrel.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
